@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Doğal Taşlar',
   author: 'Tails Azimuth',
   headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Doğal Taşlar Bloğu',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteLogo: '/static/images/logo.png',
